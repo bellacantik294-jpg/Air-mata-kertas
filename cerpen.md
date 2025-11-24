@@ -1,3 +1,0 @@
-1. Langit senja di atas kita
-2. romantis, sedih, horor, misteri, persahabatan, keluarga, puisi, lirik lagu
-3. ini cerita pertemuan singkat...
