@@ -1,0 +1,23 @@
+{
+  "name": "Air Mata Kertas",
+  "short_name": "AMK",
+  "description": "Kumpulan cerpen, kisah, dan puisi dari Air Mata Kertas",
+  "start_url": "/Air-mata-kertas/index.html",
+  "scope": "/Air-mata-kertas/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
